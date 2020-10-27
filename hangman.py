@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import requests
 
-def display_hangman(tries):
+def display_hangman(tries): //participating in hacktoberfest
     stages = [  
                 """
                    --------
